@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about how to create bugs from nowhere XD
 - 📫 How to reach me: Mail-id: chandanhariharan@gmail.com
 - 😄 Pronouns: He/His
+- 😝 Fun fact: Often pull up PRO gamer moves in REAL LIFE.
 

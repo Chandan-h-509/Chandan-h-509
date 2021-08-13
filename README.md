@@ -1,4 +1,6 @@
-### <h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Chandan here. Welcome to my World</h1>. 
+### <h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Chandan here. Welcome to my World</h1>
+<h1> </h1>
+
 <img  src="https://github-readme-stats.vercel.app/api?username=Chandan-h-509&show_icons=true&hide_border=true&theme=chartreuse-dark" width="45%" align="right" >
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Chandan-h-509&hide_border=true&theme=chartreuse-dark" width="45%" >

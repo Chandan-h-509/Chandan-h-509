@@ -11,8 +11,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Audio Processing using Deep Learning.
-- 🌱 I’m currently learning Deep Learning and DSA
+- 🔭 My interests: Computer Vision, Machine Learning, Deep Learning, Cloud
 - 👯 I’m looking to collaborate on Deep Learning and ML based projects
 - 💬 Ask me about how to create bugs from nowhere XD
 - 📫 How to reach me: Mail-id: chandanhariharan@gmail.com

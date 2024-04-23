@@ -11,10 +11,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 My interests: Computer Vision, Machine Learning, Deep Learning, Cloud
+- 🔭 My interests: Computer Vision, Machine Learning, Deep Learning, Cloud, Devops, Mlops
 - 👯 I’m looking to collaborate on Deep Learning and ML based projects
 - 💬 Ask me about how to create bugs from nowhere XD
 - 📫 How to reach me: Mail-id: chandanhariharan@gmail.com
-- 😄 Pronouns: He/His
-- 😝 Fun fact: Often pull up PRO gamer moves in REAL LIFE
 
